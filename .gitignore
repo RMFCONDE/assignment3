@@ -1,0 +1,3 @@
+data/lightcast_job_postings.csv
+.venv/
+LAB2/_output/*.csv
